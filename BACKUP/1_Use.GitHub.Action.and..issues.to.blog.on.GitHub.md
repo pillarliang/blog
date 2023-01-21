@@ -19,13 +19,13 @@ Commit or modify `issues`, and `README.md` will classify `issues` according to t
   <img width="1082" alt="image-20230121161725141" src="https://user-images.githubusercontent.com/28833267/213859372-d98ab74d-5236-412b-8bb5-4c1277f8afb5.png">
 
 5. copy 3 files from this project to your own project.
-     - [[.github/workflows/generate_readme.yml](https://github.com/pillarliang/blog/blob/main/.github/workflows/generate_readme.yml)](https://github.com/pillarliang/blog/blob/main/.github/workflows/generate_readme.yml)
-     (https://github.com/pillarliang/blog/blob/main/.github/workflows/generate_readme.yml)
+     - [.github/workflows/generate_readme.yml](https://github.com/pillarliang/blog/blob/main/.github/workflows/generate_readme.yml)
       Modify the relevant configuration to your own information. In Figure 2, `BLOG` corresponds to the environment variables set in Step 3 above
       <img width="288" alt="image-20230121161929753" src="https://user-images.githubusercontent.com/28833267/213859456-eafe3e28-d072-4c70-9cb6-3717ca0f90cc.png">
       <img width="836" alt="image-20230121162017339" src="https://user-images.githubusercontent.com/28833267/213859465-ef48142a-73ab-46e6-b57a-ad066558cdb4.png">
-      - [[main.py](https://github.com/pillarliang/blog/blob/main/main.py)](https://github.com/pillarliang/blog/blob/main/main.py)
-      - [[requirements.txt](https://github.com/pillarliang/blog/blob/main/requirements.txt)](
+      - [main.py](https://github.com/pillarliang/blog/blob/main/main.py)
+ 
+      - [requirements.txt](https://github.com/pillarliang/blog/blob/main/requirements.txt)
 
 6. After the configuration is complete, create an issue for verification.If it fails, check the error message yourself under the Actions tab.
 
