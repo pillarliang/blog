@@ -7,7 +7,7 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = "pillar's blog"
+MD_HEAD = "pillar's blog\n"
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
